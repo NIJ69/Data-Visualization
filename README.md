@@ -1,6 +1,6 @@
-<h1 align="center">
+<!-- <h1 align="center">
     Data Visualization in Excel
-</h1>
+</h1> -->
 
 Data visualization is one of the most used and important features of Excel. Excel provides a lot of customizations as well for the charts. Based on the data and the goal of the visualization we can choose our chart from a number of options. Let's explore the Data Visualization world of Excel.
 
