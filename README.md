@@ -38,3 +38,23 @@ Progress bars are those familiar visual gauges we see on computers and devices t
 Doughnut charts, named for their resemblance to the tasty pastry, are a variation of pie charts. They look like pie charts with a hole in the center. These can be used to make comparisons and indicate progress.
 
 ![Doughnut Charts in Excel](assets/DoughnutCharts.gif)
+
+### Line Charts
+
+### Area Charts
+
+### Scatter Plots
+
+### Map Charts
+
+### Waterfall Charts
+
+### Funnel Charts
+
+### Box & Whisker Charts
+
+### Treemap Charts
+
+### Sunburst Chart
+
+### Map Chart
